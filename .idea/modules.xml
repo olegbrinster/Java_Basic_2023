@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIT_TR_Java_Basic_2023.iml" filepath="$PROJECT_DIR$/AIT_TR_Java_Basic_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_11/Code/Code.iml" filepath="$PROJECT_DIR$/lesson_11/Code/Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_02/code/Home Work2/Home Work2.iml" filepath="$PROJECT_DIR$/lesson_02/code/Home Work2/Home Work2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_01/code/HomeWork/HomeWork.iml" filepath="$PROJECT_DIR$/lesson_01/code/HomeWork/HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_05/HomeWork5/HomeWork5.iml" filepath="$PROJECT_DIR$/lesson_05/HomeWork5/HomeWork5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_06/HomeWork6/HomeWork6.iml" filepath="$PROJECT_DIR$/lesson_06/HomeWork6/HomeWork6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_12/Hw/Hw.iml" filepath="$PROJECT_DIR$/lesson_12/Hw/Hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_14/Hw14/Hw14.iml" filepath="$PROJECT_DIR$/lesson_14/Hw14/Hw14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_13/Hw_13/Hw_13.iml" filepath="$PROJECT_DIR$/lesson_13/Hw_13/Hw_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_15/Hw_15/Hw_15.iml" filepath="$PROJECT_DIR$/lesson_15/Hw_15/Hw_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consult-2023-06-08/calculator/calculator.iml" filepath="$PROJECT_DIR$/consult-2023-06-08/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_06/char-practic.iml/char-practic.iml.iml" filepath="$PROJECT_DIR$/lesson_06/char-practic.iml/char-practic.iml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_06/char-practic.iml/code/code.iml" filepath="$PROJECT_DIR$/lesson_06/char-practic.iml/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw/hw.iml" filepath="$PROJECT_DIR$/hw/hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_07/hw07/hw07.iml" filepath="$PROJECT_DIR$/lesson_07/hw07/hw07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_08/hw_08/hw_08.iml" filepath="$PROJECT_DIR$/lesson_08/hw_08/hw_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_09/hw_09/hw_09.iml" filepath="$PROJECT_DIR$/lesson_09/hw_09/hw_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_10/hw_10/hw_10.iml" filepath="$PROJECT_DIR$/lesson_10/hw_10/hw_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_16/hw_16/hw_16.iml" filepath="$PROJECT_DIR$/lesson_16/hw_16/hw_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consult-2023-06-22/hw_c/hw_c.iml" filepath="$PROJECT_DIR$/consult-2023-06-22/hw_c/hw_c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_07/code/if-else-practice/if-else-practice.iml" filepath="$PROJECT_DIR$/lesson_07/code/if-else-practice/if-else-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_08/code/if-else-swith-practice/if-else-swith-practice.iml" filepath="$PROJECT_DIR$/lesson_08/code/if-else-swith-practice/if-else-swith-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_06/code/method-example/method-example.iml" filepath="$PROJECT_DIR$/lesson_06/code/method-example/method-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_09/code/practice-09/practice-09.iml" filepath="$PROJECT_DIR$/lesson_09/code/practice-09/practice-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_06/code/string-practice/string practice.iml" filepath="$PROJECT_DIR$/lesson_06/code/string-practice/string practice.iml" />
+    </modules>
+  </component>
+</project>
