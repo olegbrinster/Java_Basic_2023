@@ -23,7 +23,14 @@ public class Bus {
         this.lengthOfTheRoute = lengthOfTheRoute;
 
     }
-    public void go() {
+    public void go(int speed) {
+        if (speed < getSpeedOnTheRoute()){
+
+          return ;
+
+        }
+        speedOnTheRoute += speed ;
+        System.out.println("Gib Gas");
         System.out.println("Bus: " + routeNumber + " is on the move");
     }
     public void stop() {
